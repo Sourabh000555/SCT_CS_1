@@ -3,7 +3,7 @@ A Python implementation of the Caesar Cipher algorithm that performs encryption 
 
 
 
-#🔐 Caesar Cipher Encryption & Decryption Program
+# 🔐 Caesar Cipher Encryption & Decryption Program
 
 This project is a Python implementation of the Caesar Cipher, one of the earliest and simplest encryption techniques in classical cryptography.
 
